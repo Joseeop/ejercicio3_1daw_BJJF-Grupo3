@@ -6,6 +6,7 @@ public class Frasesgp3 {
 		// TODO Auto-generated method stub
 		
 		System.out.println(Empezamos esta bonita historia);
+		System.out.println(Si no fuese por Miguel no la habríamos empezado);
 	}
 
 }

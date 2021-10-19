@@ -8,6 +8,7 @@ public class Frasesgp3 {
 		System.out.println(Empezamos esta bonita historia);
 		System.out.println(Si no fuese por Miguel no la habríamos empezado);
 		System.out.println(pero bueno, que le vamos a hacer, en verdad mola)
+		System.out.println(madre mia);
 	}
 
 }

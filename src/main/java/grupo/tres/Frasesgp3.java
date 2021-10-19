@@ -11,6 +11,8 @@ public class Frasesgp3 {
 		System.out.println(Su hijo sabe hacer esto y nosotros no);
 		System.out.println(No mola nada loco!);
 		System.out.println(siento como que nos tenemos que ir fastidiando entre nosotros xd);
+		System.out.println(Berta nos realentiza en exceso)
 	}
+	
 
 }

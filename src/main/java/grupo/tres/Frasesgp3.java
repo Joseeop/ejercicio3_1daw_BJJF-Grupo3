@@ -14,6 +14,7 @@ public class Frasesgp3 {
 		System.out.println(vaya problem�n que tenemos con los conflictos eh chicos...);
 		System.out.println(Berta nos realentiza en exceso);
 		System.out.println(aunque se esfuerza en llevarlo adelante chicos);
+		System.out.println(Berta nos realentiza en exceso);
 	}
 	
 

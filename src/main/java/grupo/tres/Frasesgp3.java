@@ -54,6 +54,11 @@ public class Frasesgp3 {
 		System.out.println("claro, te pueden hacer jerseys");
 		System.out.println("antes jugaba mas a la petanca pero su perro murio y ha dejado de jugar");
 		System.out.println("ahora solo se encierra en casa a acariciar a su gato misifus y comer galletas de mantequilla");
+		System.out.println("lo paso muy mal, y como la petanca le recordaba a pepe pues lo dejo");
+		System.out.println("pepe era su perro, un galgo ");
+		System.out.println("un galgo que en vez de correr saltaba ");
+		System.out.println("y que comia mas que yo en las cenas de navidad");
+		
 		System.out.println("Resumiendo , a la tia encarni le gusta hacer de todo menos cuidar de nosotros :(");
 		System.out.println("Realmente nunca le han gustado los niños, ella prefiere a los animales");
         System.out.println("siempre dice que se quejan mucho menos")

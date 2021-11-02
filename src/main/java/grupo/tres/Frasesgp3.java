@@ -27,7 +27,8 @@ public class Frasesgp3 {
 		
 		System.out.println("Resumiendo , a la tia encarni le gusta hacer de todo menos cuidar de nosotros :(");
 		System.out.println("Realmente nunca le han gustado los niños, ella prefiere a los animales");
-        System.out.println("siempre dice que se quejan menos")
+        System.out.println("siempre dice que se quejan menos");
+        System.out.println("Ahora que se mudo a Barcelona la echaremos de menos");
  
 		
 		

@@ -39,7 +39,7 @@ public class Frasesgp3 {
 		
 		
 		
-		System.out.println();
+		System.out.println("Hola id escribiendo si quereis alguna frase :D");
 	}
 	
 

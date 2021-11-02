@@ -6,12 +6,12 @@ public class Frasesgp3 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Empezamos esta bonita historia");
-		System.out.println("Si no fuese por Miguel no la habrï¿½amos empezado");
+		System.out.println("Si no fuese por Miguel no la habríamos empezado");
 		System.out.println("pero bueno, que le vamos a hacer, en verdad mola");
 		System.out.println("Su hijo sabe hacer esto y nosotros no");
 		System.out.println("No mola nada loco!");
 		System.out.println("siento como que nos tenemos que ir fastidiando entre nosotros xd");
-		System.out.println("vaya problemï¿½n que tenemos con los conflictos eh chicos...");
+		System.out.println("vaya problemón que tenemos con los conflictos eh chicos...");
 		System.out.println("Berta nos realentiza en exceso");
 		System.out.println("aunque se esfuerza en llevarlo adelante chicos");
 		System.out.println("Berta nos realentiza en exceso");

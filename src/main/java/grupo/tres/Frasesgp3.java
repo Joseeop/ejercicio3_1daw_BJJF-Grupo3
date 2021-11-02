@@ -16,9 +16,9 @@ public class Frasesgp3 {
 		System.out.println("ahora miguel le estï¿½ explicando");
 		System.out.println("Debï¿½is veros peaky blinders");
 		
-		System.out.println("Un borracho estï¿½ haciendo pis en la calle, pasa una seï¿½ora y dice:\r\n"
-				+ "ï¿½ï¿½Quï¿½ horror! ï¿½Quï¿½ monstruo! ï¿½Quï¿½ salvajada!\r\n"
-				+ "ï¿½Pase tranquila, seï¿½ora, que lo tengo agarrado del cuello.");
+		System.out.println("Un borracho está haciendo pis en la calle, pasa una señora y dice:\r\n"
+				+ "¡Qué horror! ¡Qué monstruo! ¡Qué salvajada!\r\n"
+				+ "Pase tranquila, señora, que lo tengo agarrado del cuello.");
 		System.out.println("by the order of the fooking peaky blindeeers");
 		System.out.println("Por ahora prefiero esperarme a la semana que viene al estreno de arcane");
 		System.out.println("estoy deseando que salga la temporada 6 la vd");

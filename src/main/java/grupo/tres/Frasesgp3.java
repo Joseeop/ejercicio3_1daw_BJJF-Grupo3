@@ -53,13 +53,10 @@ public class Frasesgp3 {
 		System.out.println("puede resultar muy util tener personas en la familia que practiquen el ganchillo ,eh ");
 		System.out.println("claro, te pueden hacer jerseys")
 		System.out.println("antes jugaba mas a la petanca pero su perro murio y ha dejado de jugar");
-<<<<<<< Updated upstream
 		System.out.println("ahora solo se encierra en casa a acariciar a su gato misifus y comer galletas de mantequilla");
-=======
 		System.out.println("lo paso muy mal, y como la petanca le recordaba a pepe pues lo dejo")
 		System.out.println("pepe era su perro, un galgo ")
 		System.out.println("un galgo que en vez de correr saltaba ")
->>>>>>> Stashed changes
 		
 		
 		

@@ -5,11 +5,11 @@ public class Frasesgp3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println(Empezamos esta bonita historia);
-		System.out.println(Si no fuese por Miguel no la habr�amos empezado);
-		System.out.println(pero bueno, que le vamos a hacer, en verdad mola)
-		System.out.println(madre mia);
-		System.out.println(Suerte con la clases online);
+		System.out.println("Empezamos esta bonita historia");
+		System.out.println("Si no fuese por Miguel no la habriamos empezado");
+		System.out.println("pero bueno, que le vamos a hacer, en verdad mola")
+		System.out.println("madre mia");
+		System.out.println("Suerte con la clases online");
 		System.out.println("Empezamos esta bonita historia");
 		System.out.println("Si no fuese por Miguel no la habríamos empezado");
 		System.out.println("pero bueno, que le vamos a hacer, en verdad mola");
@@ -18,12 +18,8 @@ public class Frasesgp3 {
 		System.out.println("siento como que nos tenemos que ir fastidiando entre nosotros xd");
 		System.out.println("vaya problemón que tenemos con los conflictos eh chicos...");
 		System.out.println("aunque se esfuerza en llevarlo adelante chicos");
-		System.out.println("ahora miguel le est� explicando");
+		System.out.println("ahora miguel le esta explicando");
 		System.out.println("Deb�is veros peaky blinders");
-		
-		System.out.println("Un borracho est� haciendo pis en la calle, pasa una se�ora y dice:\r\n"
-				+ "�Qu� horror! �Qu� monstruo! �Qu� salvajada!\r\n"
-				+ "Pase tranquila, se�ora, que lo tengo agarrado del cuello.");
 		System.out.println("ahora miguel le está explicando");
 		System.out.println("Debeis veros peaky blinders");
 		System.out.println("by the order of the fooking peaky blindeeers");

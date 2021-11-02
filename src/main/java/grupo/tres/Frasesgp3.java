@@ -45,9 +45,10 @@ public class Frasesgp3 {
 		System.out.println("Mi tia la de Cuenca");
 		System.out.println("hablando de literatura...no os sentis raros sin poder poner comas?");
 		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura castellana");
-		Sytem.out.println("Pero solo tenian sobre el Quijote")
-		System.out.println("Y no es precisamente de su rollo")
+		System.out.println("Pero solo tenian sobre el Quijote");
+		System.out.println("Y no es precisamente de su rollo");
 		System.out.println("la verdad que un poco raro si que se siente, pero solo es para esta historia asi que esta bien");
+		System.out.println("a mi tia solo le interesa hacer ganchillo");
 		
 		
 		

@@ -16,6 +16,7 @@ public class Frasesgp3 {
 		System.out.println("ahora miguel le está explicando");
 		System.out.println("Debéis veros peaky blinders");
 		System.out.println("by the order of the fooking peaky blindeeers");
+		System.out.println("Por ahora prefiero esperarme a la semana que viene al estreno de arcane");
 	}
 	
 

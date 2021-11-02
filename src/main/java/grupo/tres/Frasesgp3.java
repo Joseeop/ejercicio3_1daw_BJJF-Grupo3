@@ -46,6 +46,7 @@ public class Frasesgp3 {
 		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura española");
 		System.out.println("hablando de literatura...no os sentis raros sin poder poner comas?");
 		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura castellana");
+		System.out.println("Creo que a mi tia no le interesa la literatura");
 		
 		
 		

@@ -44,8 +44,8 @@ public class Frasesgp3 {
 		System.out.println("Encarni era mi tia");
 		System.out.println("Mi tia la de Cuenca");
 		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura castellana");
-		
-		
+		Sytem.out.println("Pero solo tenian sobre el Quijote")
+		System.out.println("Y no es precisamente de su rollo")
 		
 		
 		

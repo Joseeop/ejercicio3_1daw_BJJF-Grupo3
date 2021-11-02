@@ -18,7 +18,7 @@ public class Frasesgp3 {
 		System.out.println("by the order of the fooking peaky blindeeers");
 		System.out.println("Por ahora prefiero esperarme a la semana que viene al estreno de arcane");
 		System.out.println("estoy deseando que salga la temporada 6 la vd");
-		System.out.println("awa fresca");
+		System.out.println("¿Cómo seguimos esta historia?");
 
 		
 		

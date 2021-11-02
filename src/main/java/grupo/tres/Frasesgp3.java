@@ -7,7 +7,7 @@ public class Frasesgp3 {
 		
 		System.out.println("Empezamos esta bonita historia");
 		System.out.println("Si no fuese por Miguel no la habriamos empezado");
-		System.out.println("pero bueno, que le vamos a hacer, en verdad mola")
+		System.out.println("pero bueno, que le vamos a hacer, en verdad mola");
 		System.out.println("madre mia");
 		System.out.println("Suerte con la clases online");
 		System.out.println("Empezamos esta bonita historia");
@@ -43,7 +43,7 @@ public class Frasesgp3 {
 		System.out.println("Erase una vez una mujer llamada encarni...");
 		System.out.println("Encarni era mi tia");
 		System.out.println("Mi tia la de Cuenca");
-		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura española");
+		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura castellana");
 		
 		
 		

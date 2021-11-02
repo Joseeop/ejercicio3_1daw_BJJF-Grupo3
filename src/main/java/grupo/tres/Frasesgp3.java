@@ -49,6 +49,7 @@ public class Frasesgp3 {
 		System.out.println("Y no es precisamente de su rollo");
 		System.out.println("Por lo que se puso a mirar hasta encontrar la casa de Bernarda Alba");
 		System.out.println("a mi tia solo le interesa hacer ganchillo");
+		System.out.println("Y jugar a la petanca con su perro");
 		
 		
 		

@@ -43,12 +43,12 @@ public class Frasesgp3 {
 		System.out.println("Erase una vez una mujer llamada encarni...");
 		System.out.println("Encarni era mi tia");
 		System.out.println("Mi tia la de Cuenca");
-		System.out.println("hablando de literatura...no os sentis raros sin poder poner comas?");
 		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura castellana");
 		System.out.println("Pero solo tenian sobre el Quijote");
 		System.out.println("Y no es precisamente de su rollo");
 		System.out.println("Por lo que se puso a mirar hasta encontrar la casa de Bernarda Alba");
 		System.out.println("a mi tia solo le interesa hacer ganchillo");
+		System.out.println("puede resultar muy util tener personas en la familia que practiquen el ganchillo ,eh ");
 		
 		
 		

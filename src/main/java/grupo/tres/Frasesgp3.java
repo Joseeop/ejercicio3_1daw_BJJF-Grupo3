@@ -44,6 +44,8 @@ public class Frasesgp3 {
 		System.out.println("Encarni era mi tia");
 		System.out.println("Mi tia la de Cuenca");
 		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura española");
+		System.out.println("hablando de literatura...no os sentis raros sin poder poner comas?");
+		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura castellana");
 		
 		
 		

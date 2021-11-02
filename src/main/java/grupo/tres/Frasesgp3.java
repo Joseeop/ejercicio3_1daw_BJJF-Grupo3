@@ -19,7 +19,7 @@ public class Frasesgp3 {
 		System.out.println("vaya problemón que tenemos con los conflictos eh chicos...");
 		System.out.println("aunque se esfuerza en llevarlo adelante chicos");
 		System.out.println("ahora miguel le esta explicando");
-		System.out.println("Deb�is veros peaky blinders");
+		System.out.println("Debeis veros peaky blinders");
 		System.out.println("ahora miguel le está explicando");
 		System.out.println("Debeis veros peaky blinders");
 		System.out.println("by the order of the fooking peaky blindeeers");
@@ -40,9 +40,10 @@ public class Frasesgp3 {
 		
 		
 		System.out.println("Hola id escribiendo si quereis alguna frase :D");
-		System.out.println("�rase una vez una mujer llamada encarni...");
+		System.out.println("Erase una vez una mujer llamada encarni...");
 		System.out.println("Encarni era mi tia");
 		System.out.println("Mi tia la de Cuenca");
+		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura española");
 		
 		
 		

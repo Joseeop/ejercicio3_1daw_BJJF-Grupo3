@@ -6,20 +6,21 @@ public class Frasesgp3 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Empezamos esta bonita historia");
-		System.out.println("Si no fuese por Miguel no la habríamos empezado");
+		System.out.println("Si no fuese por Miguel no la habrï¿½amos empezado");
 		System.out.println("pero bueno, que le vamos a hacer, en verdad mola");
 		System.out.println("Su hijo sabe hacer esto y nosotros no");
 		System.out.println("No mola nada loco!");
 		System.out.println("siento como que nos tenemos que ir fastidiando entre nosotros xd");
-		System.out.println("vaya problemón que tenemos con los conflictos eh chicos...");
-		System.out.println("Berta nos realentiza en exceso");
+		System.out.println("vaya problemï¿½n que tenemos con los conflictos eh chicos...");
 		System.out.println("aunque se esfuerza en llevarlo adelante chicos");
-		System.out.println("ahora miguel le está explicando");
-		System.out.println("Debéis veros peaky blinders");
+		System.out.println("ahora miguel le estï¿½ explicando");
+		System.out.println("Debï¿½is veros peaky blinders");
 		
-		System.out.println("Un borracho está haciendo pis en la calle, pasa una señora y dice:\r\n"
-				+ "—¡Qué horror! ¡Qué monstruo! ¡Qué salvajada!\r\n"
-				+ "—Pase tranquila, señora, que lo tengo agarrado del cuello.");
+		System.out.println("Un borracho estï¿½ haciendo pis en la calle, pasa una seï¿½ora y dice:\r\n"
+				+ "ï¿½ï¿½Quï¿½ horror! ï¿½Quï¿½ monstruo! ï¿½Quï¿½ salvajada!\r\n"
+				+ "ï¿½Pase tranquila, seï¿½ora, que lo tengo agarrado del cuello.");
+		System.out.println("by the order of the fooking peaky blindeeers");
+		System.out.println("Por ahora prefiero esperarme a la semana que viene al estreno de arcane");
 	}
 	
 

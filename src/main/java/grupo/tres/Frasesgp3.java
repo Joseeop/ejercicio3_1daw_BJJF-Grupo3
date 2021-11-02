@@ -49,6 +49,7 @@ public class Frasesgp3 {
 		System.out.println("Por lo que se puso a mirar hasta encontrar la casa de Bernarda Alba");
 		System.out.println("a mi tia solo le interesa hacer ganchillo");
 		System.out.printl("es muy agil con los dedos")
+		System.out.println("Y jugar a la petanca con su perro");
 		System.out.println("puede resultar muy util tener personas en la familia que practiquen el ganchillo ,eh ");
 		System.out.println("claro, te pueden hacer jerseys")
 		

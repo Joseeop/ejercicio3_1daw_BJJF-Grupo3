@@ -60,6 +60,7 @@ public class Frasesgp3 {
 		System.out.println("y que comia mas que yo en las cenas de navidad");
 		
 		System.out.println("Resumiendo , a la tia encarni le gusta hacer de todo menos cuidar de nosotros :(");
+		System.out.println("Realmente nunca le han gustado los niños, ella prefiere a los animales");
 
 
 		

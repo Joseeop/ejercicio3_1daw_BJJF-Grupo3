@@ -47,7 +47,7 @@ public class Frasesgp3 {
 		System.out.println("Hoy se ha ido a una biblioteca a estudiar sobre la literatura castellana");
 		System.out.println("Pero solo tenian sobre el Quijote");
 		System.out.println("Y no es precisamente de su rollo");
-		System.out.println("la verdad que un poco raro si que se siente, pero solo es para esta historia asi que esta bien");
+		System.out.println("Por lo que se puso a mirar hasta encontrar la casa de Bernarda Alba");
 		System.out.println("a mi tia solo le interesa hacer ganchillo");
 		
 		

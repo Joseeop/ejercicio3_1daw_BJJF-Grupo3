@@ -16,6 +16,10 @@ public class Frasesgp3 {
 		System.out.println("aunque se esfuerza en llevarlo adelante chicos");
 		System.out.println("ahora miguel le está explicando");
 		System.out.println("Debéis veros peaky blinders");
+		
+		System.out.println("Un borracho está haciendo pis en la calle, pasa una señora y dice:\r\n"
+				+ "—¡Qué horror! ¡Qué monstruo! ¡Qué salvajada!\r\n"
+				+ "—Pase tranquila, señora, que lo tengo agarrado del cuello.");
 	}
 	
 

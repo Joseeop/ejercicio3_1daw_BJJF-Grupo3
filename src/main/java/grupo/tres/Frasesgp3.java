@@ -40,6 +40,13 @@ public class Frasesgp3 {
 		
 		
 		System.out.println("Hola id escribiendo si quereis alguna frase :D");
+		System.out.println("Érase una vez una mujer llamada encarni...");
+		
+		
+		
+		
+		
+		
 	}
 	
 

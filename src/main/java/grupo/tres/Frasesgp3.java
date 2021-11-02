@@ -56,7 +56,7 @@ public class Frasesgp3 {
 		System.out.println("ahora solo se encierra en casa a acariciar a su gato misifus y comer galletas de mantequilla");
 		System.out.println("Resumiendo , a la tia encarni le gusta hacer de todo menos cuidar de nosotros :(");
 
-		
+
 		
 		
 		

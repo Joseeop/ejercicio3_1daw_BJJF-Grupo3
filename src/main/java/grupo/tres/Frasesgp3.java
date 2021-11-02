@@ -52,6 +52,7 @@ public class Frasesgp3 {
 		System.out.println("Y jugar a la petanca con su perro");
 		System.out.println("puede resultar muy util tener personas en la familia que practiquen el ganchillo ,eh ");
 		System.out.println("claro, te pueden hacer jerseys")
+		System.out.println("antes jugaba mas a la petanca pero su perro murio y ha dejado de jugar");
 		
 		
 		

@@ -20,7 +20,11 @@ public class Frasesgp3 {
 				+ "��Qu� horror! �Qu� monstruo! �Qu� salvajada!\r\n"
 				+ "�Pase tranquila, se�ora, que lo tengo agarrado del cuello.");
 		System.out.println("by the order of the fooking peaky blindeeers");
+<<<<<<< Updated upstream
 		System.out.println("Por ahora prefiero esperarme a la semana que viene al estreno de arcane");
+=======
+		System.out.println("estoy deseando que salga la temporada 6 la vd");
+>>>>>>> Stashed changes
 	}
 	
 

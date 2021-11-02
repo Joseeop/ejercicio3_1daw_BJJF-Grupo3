@@ -12,10 +12,10 @@ public class Frasesgp3 {
 		System.out.println("No mola nada loco!");
 		System.out.println("siento como que nos tenemos que ir fastidiando entre nosotros xd");
 		System.out.println("vaya problemón que tenemos con los conflictos eh chicos...");
-		System.out.println("Berta nos realentiza en exceso");
 		System.out.println("aunque se esfuerza en llevarlo adelante chicos");
 		System.out.println("ahora miguel le está explicando");
 		System.out.println("Debéis veros peaky blinders");
+		System.out.println("by the order of the fooking peaky blindeeers");
 	}
 	
 
